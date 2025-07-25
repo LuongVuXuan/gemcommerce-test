@@ -1,4 +1,17 @@
+
 # Requirement
+
+
+## Unit test
+
+Chỉ có unit test cho hàm normalizeInputValue (xem file src/utils.test.ts). Không test UI/App.tsx.
+
+Để chạy test:
+
+```bash
+npm test
+```
+
 
 Code UI như design và logic thỏa mãn các điều kiện sau:
 
